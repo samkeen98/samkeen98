@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samkeen98
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript/react
+- 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on nothing not yet at least haha.
 - 📫 How to reach me you can't
 
