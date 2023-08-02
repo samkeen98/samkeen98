@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samkeen98
+- 👋 Hi, I’m sam dean
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on nothing not yet at least haha.
